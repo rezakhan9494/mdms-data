@@ -2,21 +2,134 @@
     "tenantId": "od",
     "moduleName": "NOC",
     "NocType": [
-       {
-         "code": "FIRE_NOC",
-         "isActive": true,
-         "offlineWF":"FIRE_NOC_OFFLINE",
-         "onlineWF":"FIRE_NOC_SRV",
-         "mode":"online",
-         "NocUserRole":"FIRE_NOC_APPROVER"
-      },
-      {
-        "code":"AIRPORT_AUTHORITY",
-        "isActive": true,
-        "offlineWF":"AIRPORT_NOC_OFFLINE",
-        "onlineWF":"AIRPORT_NOC_SRV",
-        "mode":"offline",
-        "NocUserRole":"AIRPORT_AUTHORITY_APPROVER"
-      }
-    ]
+   {
+      "code":"OSHB OR DEVELOPMENT AUTHORITY_NOC",
+      "isActive":true,
+      "offlineWF":"OSHB OR DEVELOPMENT AUTHORITY_NOC_OFFLINE",
+      "onlineWF":"OSHB OR DEVELOPMENT AUTHORITY_NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"OSHB OR DEVELOPMENT AUTHORITY_NOC_APPROVER"
+   },
+   {
+      "code":"DEPUTY FORST OFFICEER _NOC",
+      "isActive":true,
+      "offlineWF":"DEPUTY FORST OFFICEER _NOC_OFFLINE",
+      "onlineWF":"DEPUTY FORST OFFICEER _NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"DEPUTY FORST OFFICEER _NOC_APPROVER"
+   },
+   {
+      "code":"AAI_NOC",
+      "isActive":true,
+      "offlineWF":"AAI_NOC_OFFLINE",
+      "onlineWF":"AAI_NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"AAI_NOC_APPROVER"
+   },
+   {
+      "code":"NMA_NOC",
+      "isActive":true,
+      "offlineWF":"NMA_NOC_OFFLINE",
+      "onlineWF":"NMA_NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"NMA_NOC_APPROVER"
+   },
+   {
+      "code":"ENVIRONMENT CLEARANCE_NOC",
+      "isActive":true,
+      "offlineWF":"ENVIRONMENT CLEARANCE_NOC_OFFLINE",
+      "onlineWF":"ENVIRONMENT CLEARANCE_NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"ENVIRONMENT CLEARANCE_NOC_APPROVER"
+   },
+   {
+      "code":"FIRE SERVICE_NOC",
+      "isActive":true,
+      "offlineWF":"FIRE SERVICE_NOC_OFFLINE",
+      "onlineWF":"FIRE SERVICE_NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"FIRE SERVICE_NOC_APPROVER"
+   },
+   {
+      "code":"URBAN LOCAL BODIES UNDER H&UD_NOC",
+      "isActive":true,
+      "offlineWF":"URBAN LOCAL BODIES UNDER H&UD_NOC_OFFLINE",
+      "onlineWF":"URBAN LOCAL BODIES UNDER H&UD_NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"URBAN LOCAL BODIES UNDER H&UD_NOC_APPROVER",
+      "undefined":" "
+   },
+   {
+      "code":"PUBLIC HEALTH ENGINEERING ORGANIZATION_NOC",
+      "isActive":true,
+      "offlineWF":"PUBLIC HEALTH ENGINEERING ORGANIZATION_NOC_OFFLINE",
+      "onlineWF":"PUBLIC HEALTH ENGINEERING ORGANIZATION_NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"PUBLIC HEALTH ENGINEERING ORGANIZATION_NOC_APPROVER"
+   },
+   {
+      "code":"CENTRAL GROUND WATER AUTHORITY_NOC",
+      "isActive":true,
+      "offlineWF":"CENTRAL GROUND WATER AUTHORITY_NOC_OFFLINE",
+      "onlineWF":"CENTRAL GROUND WATER AUTHORITY_NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"CENTRAL GROUND WATER AUTHORITY_NOC_APPROVER"
+   },
+   {
+      "code":"ELECTRICITY DISTRIBUTION COMPANY_NOC",
+      "isActive":true,
+      "offlineWF":"ELECTRICITY DISTRIBUTION COMPANY_NOC_OFFLINE",
+      "onlineWF":"ELECTRICITY DISTRIBUTION COMPANY_NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"ELECTRICITY DISTRIBUTION COMPANY_NOC_APPROVER"
+   },
+   {
+      "code":"POLICE UNDER HOME DEPARTMENT_NOC",
+      "isActive":true,
+      "offlineWF":"POLICE UNDER HOME DEPARTMENT_NOC_OFFLINE",
+      "onlineWF":"POLICE UNDER HOME DEPARTMENT_NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"POLICE UNDER HOME DEPARTMENT_NOC_APPROVER"
+   },
+   {
+      "code":"WATER RESOURCES DEPARTMENT_NOC",
+      "isActive":true,
+      "offlineWF":"WATER RESOURCES DEPARTMENT_NOC_OFFLINE",
+      "onlineWF":"WATER RESOURCES DEPARTMENT_NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"WATER RESOURCES DEPARTMENT_NOC_APPROVER"
+   },
+   {
+      "code":"ODISHA STATE POLLUTION CONTROL BOARD_NOC",
+      "isActive":true,
+      "offlineWF":"ODISHA STATE POLLUTION CONTROL BOARD_NOC_OFFLINE",
+      "onlineWF":"ODISHA STATE POLLUTION CONTROL BOARD_NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"ODISHA STATE POLLUTION CONTROL BOARD_NOC_APPROVER"
+   },
+   {
+      "code":"TEHSILDAR OF CONCERNED MOUZA UNDER REVENUE  &DISASTER MANGEMENT_NOC",
+      "isActive":true,
+      "offlineWF":"TEHSILDAR OF CONCERNED MOUZA UNDER REVENUE  &DISASTER MANGEMENT_NOC_OFFLINE",
+      "onlineWF":"TEHSILDAR OF CONCERNED MOUZA UNDER REVENUE  &DISASTER MANGEMENT_NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"TEHSILDAR OF CONCERNED MOUZA UNDER REVENUE  &DISASTER MANGEMENT_NOC_APPROVER"
+   },
+   {
+      "code":"NHAI_NOC",
+      "isActive":true,
+      "offlineWF":"NHAI_NOC_OFFLINE",
+      "onlineWF":"NHAI_NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"NHAI_NOC_APPROVER"
+   },
+   {
+      "code":"COASTAL REGULATION_NOC",
+      "isActive":true,
+      "offlineWF":"COASTAL REGULATION_NOC_OFFLINE",
+      "onlineWF":"COASTAL REGULATION_NOC_SRV",
+      "mode":"online",
+      "NocUserRole":"COASTAL REGULATION_NOC_APPROVER"
+   }
+]
   }
