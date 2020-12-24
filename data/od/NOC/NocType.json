@@ -131,12 +131,12 @@
             "NocUserRole": "COASTALREG_NOC_APPROVER"
         },
 		{
-            "code": "STATE_ARCHAEOLOGY_NOC",
+            "code": "SA_NOC",
             "isActive": true,
-            "offlineWF": "STATE_ARCHAEOLOGY_NOC_OFFLINE",
-            "onlineWF": "STATE_ARCHAEOLOGY_NOC_SRV",
+            "offlineWF": "SA_NOC_OFFLINE",
+            "onlineWF": "SA_NOC_SRV",
             "mode": "online",
-            "NocUserRole": "STATE_ARCHAEOLOGY_NOC_APPROVER"
+            "NocUserRole": "SA_NOC_APPROVER"
         }
     ]
   }
